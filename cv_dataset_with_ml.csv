@@ -1,0 +1,2 @@
+name,email,phone,education,experience,skills,anomalies,valid,num_skills,edu_length,exp_length,ml_anomaly
+Hafiz Abdullah Nadeem,digitalabd417@gmail.com,0318-0450458,"['University', 'College']","['experience in building and', 'EXPERIENCE', 'experience in data preprocessing, model']","['expertise.', 'EXPERTISE MY PROJECTS GITHUB']",,True,2,25,87,Normal
